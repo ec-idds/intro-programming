@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+body {
+  font-family: Cutive Mono;
+background-color: lightgreen;
+}
+h1 {
+    align-self: stretch;
+    margin: 0;
+    padding: 1em 0;
+    text-align: center;
+    background: rgba(white, .8);
+}
