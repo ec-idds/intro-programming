@@ -1,5 +1,5 @@
 <h1> Projects from <i>Intro to Programming</i> </h1>
-Projects from the Intro to Programming course at Emmanuel College, including code and playable demos. Projects are listed in alphabetical order by year.
+Projects from the Intro to Programming course at Emmanuel College, including code and playable demos.
 
 - [2022](#2022)
   - [Christmas Tree Decorator](#christmas-tree-decorator)
@@ -21,6 +21,24 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
   - [Journey](#journey)
   - [Snake](#snake)
   - [Spa Game](#spa-game)
+- [Spring 2020](#spring-2020)
+  - [Pet The Cat](#pet-the-cat)
+  - [Space Cow](#space-cow)
+  - [Sid The Snake](#sid-the-snake)
+  - [Groovy](#groovy)
+  - [Pacman](#pacman)
+  - [Space Invaders](#space-invaders)
+  - [Coin Flip](#coin-flip)
+  - [Basketball Game](#basketball-game)
+  - [Flapper](#flapper)
+  - [Sunrise](#sunrise)
+  - [Tip Calculator](#tip-calculator)
+  - [Eat Cake](#eat-cake)
+  - [CoronaBuster](#coronabuster)
+  - [Rock Paper Scissors](#rock-paper-scissors)
+  - [Pianooooo](#pianooooo)
+  - [Tennis Game](#tennis-game)
+  - [Katie's World Map](#katies-world-map)
 - [2019](#2019)
   - [Frog-ish](#frog-ish)
   - [Learn To Tell Time](#learn-to-tell-time)
@@ -152,6 +170,164 @@ by Arlette Cabral
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020F/spa-game
 
 📂 Code: [spa-game](2020F/spa-game/)
+
+# Spring 2020
+This semester brought us the global COVID-19 pandemic. The course began with regular, in-person instruction, and then switched quickly to online. With that, most students opted to work on their projects alone, which is usually not encouraged in this course. 
+
+## Pet The Cat
+by Isabelle Agostinelli
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/pet-the-cat
+
+📂 Code: [pet-the-cat](2020S/pet-the-cat/)
+
+Original: [▶️ Play](https://belleagost.github.io/PetTheCat/) [📂 Code](https://github.com/belleagost/PetTheCat)
+
+## Space Cow
+by Emily Andrews & Ashley Conti 
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/space-cow
+
+📂 Code: [space-cow](2020S/space-cow/)
+
+Original: [▶️ Play](https://anc17.github.io/SpaceCow/) [📂 Code](https://github.com/anc17/SpaceCow)
+
+## Sid The Snake
+by Isabelle Agostinelli
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/sid-the-snake
+
+📂 Code: [sid-the-snake](2020S/sid-the-snake/)
+
+Original: [▶️ Play](https://vicki1115.github.io/SidTheSnake/) [📂 Code](https://github.com/vicki1115/SidTheSnake)
+
+## Groovy
+by Faith Brennan & Jaclyn Kennedy
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/groovy
+
+📂 Code: [groovy](2020S/groovy/)
+
+Original: [▶️ Play](https://brennanf.github.io/Groovy/) [📂 Code](https://github.com/brennanf/Groovy)
+
+## Pacman
+by Marissa Cataldo
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/pacman
+
+📂 Code: [pacman](2020S/pacman/)
+
+Original: [▶️ Play](https://mcataldo5.github.io/Pacman/) [📂 Code](https://github.com/mcataldo5/Pacman)
+
+## Space Invaders
+by Conor Coleman
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/space-invaders
+
+📂 Code: [space-invaders](2020S/space-invaders/)
+
+Original: [▶️ Play](https://ccoleman107.github.io/Space-Invaders/) [📂 Code](https://github.com/ccoleman107/Space-Invaders)
+
+## Coin Flip
+by Jonathan Torrez-Lopez & Joseph Corleto
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/coin-flip
+
+📂 Code: [coin-flip](2020S/coin-flip/)
+
+Original: [▶️ Play](https://corletoj.github.io/Coin-Flip/) [📂 Code](https://github.com/corletoj/Coin-Flip)
+
+## Basketball Game
+by Kevin Cullivan
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/basketball-game
+
+📂 Code: [basketball-game](2020S/basketball-game/)
+
+Original: [▶️ Play](https://cullivank.github.io/basketballgame/) [📂 Code](https://github.com/cullivank/basketballgame)
+
+## Flapper
+by Joe D'Amico & Andrew Griffin 
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/flapper
+
+📂 Code: [flapper](2020S/flapper/)
+
+Original: [▶️ Play](https://jdamico96.github.io/Flapper/) [📂 Code](https://github.com/jdamico96/Flapper)
+
+## Sunrise
+by Hayley DeLuca & Nina Silva
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/sunrise
+
+📂 Code: [sunrise](2020S/sunrise/)
+
+Original: [▶️ Play](https://ninasophiaa.github.io/Sunrise/) [📂 Code](https://github.com/ninasophiaa/Sunrise)
+
+## Tip Calculator
+by Magali Dominguez-Partida 
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/tip-calculator
+
+📂 Code: [tip-calculator](2020S/tip-calculator/)
+
+Original: [▶️ Play](https://magalidom07.github.io/Tip-Calculator-/) [📂 Code](https://github.com/magalidom07/Tip-Calculator-)
+
+## Eat Cake
+by Sarah Habbour
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/eat-cake
+
+📂 Code: [eat-cake](2020S/eat-cake/)
+
+Original: [▶️ Play](https://habbours.github.io/eat-cake/) [📂 Code](https://github.com/habbours/eat-cake)
+
+## CoronaBuster
+by Michael Hintermeister
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/corona-buster
+
+📂 Code: [corona-buster](2020S/corona-buster/)
+
+Original: [▶️ Play](https://polygonsmith.github.io/CoronaBuster/) [📂 Code](https://github.com/PolygonSmith/CoronaBuster)
+
+## Rock Paper Scissors
+by Andrew Kotarski
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/rock-paper-scissors
+
+📂 Code: [rock-paper-scissors](2020S/rock-paper-scissors/)
+
+Original: [▶️ Play](https://drewkotarski.github.io/Final-Project/) [📂 Code](https://github.com/drewkotarski/Final-Project)
+
+## Pianooooo
+by Tiffany Kwan
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/pianoooo
+
+📂 Code: [pianoooo](2020S/pianoooo/)
+
+Original: [▶️ Play](https://tiffkwan.github.io/Pianooooo/) [📂 Code](https://github.com/tiffkwan/Pianooooo)
+
+## Tennis Game
+by Ryan McCann & Nathan McKee
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/tennis-game
+
+📂 Code: [tennis-game](2020S/tennis-game/)
+
+Original: [▶️ Play](https://ryan-mccann01.github.io/Tennis-Game/) [📂 Code](https://github.com/ryan-mccann01/Tennis-Game)
+
+## Katie's World Map
+by Katie Uszakiewicz
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020S/katies-world-map
+
+📂 Code: [katies-world-map](2020S/katies-world-map/)
+
+Original: [▶️ Play](https://kuszakiewicz.github.io/KatiesWorldMap/) [📂 Code](https://github.com/kuszakiewicz/KatiesWorldMap)
+
+
 # 2019
 ## Frog-ish
 https://ec-idds.github.io/intro-programming/2019/frogish/
