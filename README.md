@@ -330,21 +330,37 @@ Original: [▶️ Play](https://kuszakiewicz.github.io/KatiesWorldMap/) [📂 Co
 
 # 2019
 ## Frog-ish
-https://ec-idds.github.io/intro-programming/2019/frogish/
+by Katie Lynch and Leanna Griffith
 
-Original: https://github.com/lynchk3/Leanna-Katie-Final-FrogIsh
+▶️ Play: https://ec-idds.github.io/intro-programming/2019/frogish/
+
+📂 Code: [frogish](2019/frogish/)
+
+Original: [📂 Code](https://github.com/lynchk3/Leanna-Katie-Final-FrogIsh)
 
 ##  Learn To Tell Time
-https://ec-idds.github.io/intro-programming/2019/learn-to-tell-time
+by Ayse Bali and Polina Ovchinnikova
 
-Original: https://github.com/AyseBali/Programming-Project
+▶️ Play: https://ec-idds.github.io/intro-programming/2019/learn-to-tell-time
+
+📂 Code: [learn-to-tell-time](2019/learn-to-tell-time/)
+
+Original: [📂 Code](https://github.com/AyseBali/Programming-Project)
 
 ## SpaaaaaAaaace
-https://ec-idds.github.io/intro-programming/2019/spaaaaaaaaace
+by Jamison O'Sullivan, Hannah Paquette, and Nathaniel Shortall
 
-Original: https://github.com/osullivanj/SpaaaaaAaaace/
+▶️ Play: https://ec-idds.github.io/intro-programming/2019/spaaaaaaaaace
+
+📂 Code: [spaaaaaaaaace](2019/spaaaaaaaaace/)
+
+Original: [▶️ Play](https://osullivanj.github.io/SpaaaaaAaaace/) [📂 Code](https://github.com/osullivanj/SpaaaaaAaaace/)
 
 ## Tetris
-https://ec-idds.github.io/intro-programming/2019/tetris
+by Emma Stevens and Patrick Geyer
 
-Original: https://github.com/PGeyer127/Tetris
+▶️ Play: https://ec-idds.github.io/intro-programming/2019/tetris
+
+📂 Code: [tetris](2019/tetris/)
+
+Original: [📂 Code](https://github.com/PGeyer127/Tetris)
