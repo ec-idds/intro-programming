@@ -13,6 +13,14 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
   - [PSnake](#psnake)
   - [Sandwich Stacker](#sandwich-stacker)
   - [Soccer Shooter](#soccer-shooter)
+- [Fall 2020](#fall-2020)
+  - [Ronnie and Steve's A-MAZE-ing Adventure](#ronnie-and-steves-a-maze-ing-adventure)
+  - [Color By Number](#color-by-number)
+  - [Desert Dino Dash](#desert-dino-dash)
+  - [Fortune Teller](#fortune-teller)
+  - [Journey](#journey)
+  - [Snake](#snake)
+  - [Spa Game](#spa-game)
 - [2019](#2019)
   - [Frog-ish](#frog-ish)
   - [Learn To Tell Time](#learn-to-tell-time)
@@ -97,7 +105,53 @@ by Jake Conklin and Colin Cronin
 
 📂 Code: [soccer-shooter](2022/soccer-shooter/)
 
+# Fall 2020
+## Ronnie and Steve's A-MAZE-ing Adventure
+by Jacquelyn Collas and Luca DePalma
 
+▶️ Play: https://ec-idds.github.io/intro-programming/2020F/amazing
+
+📂 Code: [amazing](2020F/amazing/)
+
+## Color By Number
+by Camryn Hatstat and Alyssa Hogan
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020F/color-by-number
+
+📂 Code: [color-by-number](2020F/color-by-number/)
+
+## Desert Dino Dash
+by Simran Padgett
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020F/dinosaur-game
+
+📂 Code: [dinosaur-game](2020F/dinosaur-game/)
+
+## Fortune Teller
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020F/fortune
+
+📂 Code: [fortune](2020F/fortune/)
+
+## Journey
+by Kosta Cami and Ray Le
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020F/journey
+
+📂 Code: [journey](2020F/journey/)
+
+## Snake
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020F/snake
+
+📂 Code: [snake](2020F/snake/)
+
+## Spa Game
+by Arlette Cabral
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2020F/spa-game
+
+📂 Code: [spa-game](2020F/spa-game/)
 # 2019
 ## Frog-ish
 https://ec-idds.github.io/intro-programming/2019/frogish/

@@ -1,0 +1,15 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Check Code": "npx eslint ~/workspace/*.js",
+          "Fix Code": "npx eslint *.js --fix",
+        "Watch Code": "npx esw -w --color sketch.js"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Project Index (static)": "https://{{domain}}/{{index}}"
+  }
+}
