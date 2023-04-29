@@ -1,7 +1,7 @@
 # Defeat The Naga Project Report
 ## Contributors
 
-Jarrod Gambino (gambinoj@emmanuel.edu) and Francesca Clausson (claussonf@emmanuel.edu)
+Jarod Gambino (gambinoj@emmanuel.edu) and Francesca Clausson (claussonf@emmanuel.edu)
 
 ## Description of Project
 
