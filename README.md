@@ -89,6 +89,13 @@ by Olyvia Frongillo
 📂 Code: [find-the-elf](2023/find-the-elf/)
 -->
 
+## Knock-off Flappy Bird
+
+by Ada Smith
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/flappy-knockoff/
+
+📂 Code: [flappy-knockoff](2023/flappy-knockoff/)
 
 ## Flower Grabber
 
