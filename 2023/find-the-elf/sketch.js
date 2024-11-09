@@ -38,7 +38,8 @@ function preload() {
 function setup() {
   createCanvas(400, 400);
   textFont('Serif');
-  //mySound.play();
+  userStartAudio();
+  mySound.play();
 }
 
 function draw() {

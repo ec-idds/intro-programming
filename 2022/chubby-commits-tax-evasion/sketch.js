@@ -135,6 +135,7 @@ function mouseClicked(){
 }
 
 function draw() {
+  userStartAudio();
   image(bgImg, width / 2, height / 2);
 
   

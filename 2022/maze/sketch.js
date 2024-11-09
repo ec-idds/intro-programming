@@ -46,6 +46,7 @@ function setup() {
 }
 
 function draw() {
+  userStartAudio();
   image(mazes[currentMaze], 0, 0);
   buddy.draw();
   end.draw();

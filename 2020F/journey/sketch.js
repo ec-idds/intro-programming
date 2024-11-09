@@ -177,6 +177,7 @@ function setup () {
 }
 
 function draw () {
+  userStartAudio();
   spider.checkForHit();
   spider1.checkForHit();
   spider2.checkForHit();

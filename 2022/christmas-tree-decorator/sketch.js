@@ -73,6 +73,7 @@ function preload() {
 
 function setup() {
   createCanvas(700, 500);
+  userStartAudio();
   song.loop();
 }
 

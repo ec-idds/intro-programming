@@ -37,6 +37,7 @@ function setup() {
 }
 
 function draw() {
+  userStartAudio();
   background('lightblue');
 
   y = y + (3 * m);

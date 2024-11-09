@@ -86,7 +86,7 @@ function setup() {
 }
 
 function draw() {
-
+  userStartAudio();
   let timeRemaining = period - (millis() - startTime);
   let flowerTimeRemaining = flowerPeriod - (millis() - flowerStart);
 
