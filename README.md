@@ -105,6 +105,14 @@ by Isabella Franzese and Jocelyn Francisco
 
 📂 Code: [flower-grabber](2023/flower-grabber/)
 
+## Forest Jump
+
+by Willson Lin
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/forest-jump/
+
+📂 Code: [forest-jump](2023/forest-jump/)
+
 
 # 2022
 ## Christmas Tree Decorator
