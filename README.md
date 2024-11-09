@@ -63,6 +63,14 @@ by James Fink
 
 📂 Code: [boss-fight](2023/boss-fight/)
 
+## Coloring Pages
+
+by Jacob Proulx and Nikholas Srnka
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/coloring-pages/
+
+📂 Code: [coloring-pages](2023/coloring-pages/)
+
 
 ## Flower Grabber
 
