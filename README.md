@@ -45,6 +45,17 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
   - [SpaaaaaAaaace](#spaaaaaaaaace)
   - [Tetris](#tetris)
 
+# 2023
+
+## Autumn & Monina's Nail Salon
+
+by Autumn Cabral and Monina Tosi
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/autumn-and-moninas-nail-salon/
+
+📂 Code: [autumn-and-moninas-nail-salon](2023/autumn-and-moninas-nail-salon/)
+
+
 ## Flower Grabber
 
 by Isabella Franzese and Jocelyn Francisco
