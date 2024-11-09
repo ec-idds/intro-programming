@@ -45,6 +45,15 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
   - [SpaaaaaAaaace](#spaaaaaaaaace)
   - [Tetris](#tetris)
 
+## Flower Grabber
+
+by Isabella Franzese and Jocelyn Francisco
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/flower-grabber/
+
+📂 Code: [flower-grabber](2023/flower-grabber/)
+
+
 # 2022
 ## Christmas Tree Decorator
 by Elizabeth Schweyer and Alex Oliver
