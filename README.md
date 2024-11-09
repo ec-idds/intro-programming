@@ -79,6 +79,16 @@ by AJ Godios and Michaela Mailea and Gabby Serra
 
 📂 Code: [cup-pong](2023/cup-pong/)
 
+<!--
+## Find the Elf
+
+by Olyvia Frongillo
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/find-the-elf/
+
+📂 Code: [find-the-elf](2023/find-the-elf/)
+-->
+
 
 ## Flower Grabber
 
