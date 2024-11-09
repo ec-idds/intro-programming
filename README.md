@@ -71,6 +71,14 @@ by Jacob Proulx and Nikholas Srnka
 
 📂 Code: [coloring-pages](2023/coloring-pages/)
 
+## Cup Pong
+
+by AJ Godios and Michaela Mailea and Gabby Serra
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/cup-pong/
+
+📂 Code: [cup-pong](2023/cup-pong/)
+
 
 ## Flower Grabber
 
