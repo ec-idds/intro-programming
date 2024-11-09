@@ -1,6 +1,22 @@
 <h1> Projects from <i>Intro to Programming</i> </h1>
 Projects from the Intro to Programming course at Emmanuel College, including code and playable demos.
 
+<!-- Instructor: use the Markdown AllInOne package to update TOC automatically on save! -->
+
+- [2023](#2023)
+  - [Autumn \& Monina's Nail Salon](#autumn--moninas-nail-salon)
+  - [Boss Fight](#boss-fight)
+  - [Coloring Pages](#coloring-pages)
+  - [Cup Pong](#cup-pong)
+  - [Knock-off Flappy Bird](#knock-off-flappy-bird)
+  - [Flower Grabber](#flower-grabber)
+  - [Forest Jump](#forest-jump)
+  - [Fox and Fruit](#fox-and-fruit)
+  - [An Interactive Planet UI](#an-interactive-planet-ui)
+  - [Kactus Killer](#kactus-killer)
+  - [Outfit Picker](#outfit-picker)
+  - [Savanna's Travel Map](#savannas-travel-map)
+  - [Top-Down Racing Game](#top-down-racing-game)
 - [2022](#2022)
   - [Christmas Tree Decorator](#christmas-tree-decorator)
   - [Chubby Commits Tax Evasion](#chubby-commits-tax-evasion)
@@ -113,9 +129,58 @@ by Willson Lin
 
 📂 Code: [forest-jump](2023/forest-jump/)
 
+## Fox and Fruit
+
+by Elise Ferguson
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/fox-and-fruit/
+
+📂 Code: [fox-and-fruit](2023/fox-and-fruit/)
+
+## An Interactive Planet UI
+
+by Elijah Baron and Victoria Branch
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/interactive-planet-ui/
+
+📂 Code: [interactive-planet-ui](2023/interactive-planet-ui/)
+
+## Kactus Killer
+
+by Chris Viscio and Brett Nkabasele
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/kactus-killer/
+
+📂 Code: [kactus-killer](2023/kactus-killer/)
+
+## Outfit Picker
+
+by Aiden Ruiz
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/outfit-picker/
+
+📂 Code: [outfit-picker](2023/outfit-picker/)
+
+## Savanna's Travel Map
+
+by Savanna Bouley
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/savanna-map/
+
+📂 Code: [savanna-map](2023/savanna-map/)
+
+## Top-Down Racing Game
+
+by Aiden Thornburg
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/top-down-racing/
+
+📂 Code: [top-down-racing](2023/top-down-racing/)
 
 # 2022
+
 ## Christmas Tree Decorator
+
 by Elizabeth Schweyer and Alex Oliver
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/christmas-tree-decorator/
@@ -123,6 +188,7 @@ by Elizabeth Schweyer and Alex Oliver
 📂 Code: [christmas-tree-decorator](2022/christmas-tree-decorator/)
 
 ## Chubby Commits Tax Evasion
+
 by Angel Muthemba and Jennifer Dias
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/chubby-commits-tax-evasion
@@ -130,6 +196,7 @@ by Angel Muthemba and Jennifer Dias
 📂 Code: [chubby-commits-tax-evasion](2022/chubby-commits-tax-evasion/)
 
 ## Defeat the Naga
+
 by Jarrod Gambino and Francesca Clausson
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/defeat-the-naga
@@ -137,6 +204,7 @@ by Jarrod Gambino and Francesca Clausson
 📂 Code: [defeat-the-naga](2022/defeat-the-naga/)
 
 ## Disco Drag
+
 by Samuel Zdon and Patience Kassini
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/disco-drag
@@ -144,6 +212,7 @@ by Samuel Zdon and Patience Kassini
 📂 Code: [disco-drag](2022/disco-drag/)
 
 ## Gracious Galaga
+
 by Camila Moreno-Bo and Adom Oshagan
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/gracious-galaga
@@ -151,6 +220,7 @@ by Camila Moreno-Bo and Adom Oshagan
 📂 Code: [gracious-galaga](2022/gracious-galaga/)
 
 ## Mark Mania
+
 by Colette Brochu and Erica Hinkle
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/mark-mania
@@ -158,6 +228,7 @@ by Colette Brochu and Erica Hinkle
 📂 Code: [mark-mania](2022/mark-mania/)
 
 ## Maze
+
 by Molly Hans and Evan Fuller
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/maze
@@ -165,6 +236,7 @@ by Molly Hans and Evan Fuller
 📂 Code: [maze](2022/maze/)
 
 ## Paper Doll
+
 by Anh Le and Molly Lynch
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/paper-doll
@@ -172,6 +244,7 @@ by Anh Le and Molly Lynch
 📂 Code: [paper-doll](2022/paper-doll/)
 
 ## PSnake
+
 by Angie Siv
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/psnake
@@ -179,6 +252,7 @@ by Angie Siv
 📂 Code: [psnake](2022/psnake/)
 
 ## Sandwich Stacker
+
 by Jason Fletcher and Valaree Villegas
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/sandwich-stacker
@@ -186,14 +260,17 @@ by Jason Fletcher and Valaree Villegas
 📂 Code: [sandwich-stacker](2022/sandwich-stacker/)
 
 ## Soccer Shooter
-by Jake Conklin and Colin Cronin 
+
+by Jake Conklin and Colin Cronin
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2022/soccer-shooter
 
 📂 Code: [soccer-shooter](2022/soccer-shooter/)
 
 # Fall 2020
+
 ## Ronnie and Steve's A-MAZE-ing Adventure
+
 by Jacquelyn Collas and Luca DePalma
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020F/amazing
@@ -201,6 +278,7 @@ by Jacquelyn Collas and Luca DePalma
 📂 Code: [amazing](2020F/amazing/)
 
 ## Color By Number
+
 by Camryn Hatstat and Alyssa Hogan
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020F/color-by-number
@@ -208,6 +286,7 @@ by Camryn Hatstat and Alyssa Hogan
 📂 Code: [color-by-number](2020F/color-by-number/)
 
 ## Desert Dino Dash
+
 by Simran Padgett
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020F/dinosaur-game
@@ -221,6 +300,7 @@ by Simran Padgett
 📂 Code: [fortune](2020F/fortune/)
 
 ## Journey
+
 by Kosta Cami and Ray Le
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020F/journey
@@ -234,6 +314,7 @@ by Kosta Cami and Ray Le
 📂 Code: [snake](2020F/snake/)
 
 ## Spa Game
+
 by Arlette Cabral
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020F/spa-game
@@ -241,9 +322,11 @@ by Arlette Cabral
 📂 Code: [spa-game](2020F/spa-game/)
 
 # Spring 2020
-This semester brought us the global COVID-19 pandemic. The course began with regular, in-person instruction, and then switched quickly to online. With that, most students opted to work on their projects alone, which is usually not encouraged in this course. 
+
+This semester brought us the global COVID-19 pandemic. The course began with regular, in-person instruction, and then switched quickly to online. With that, most students opted to work on their projects alone, which is usually not encouraged in this course.
 
 ## Pet The Cat
+
 by Isabelle Agostinelli
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/pet-the-cat
@@ -253,7 +336,8 @@ by Isabelle Agostinelli
 Original: [▶️ Play](https://belleagost.github.io/PetTheCat/) [📂 Code](https://github.com/belleagost/PetTheCat)
 
 ## Space Cow
-by Emily Andrews & Ashley Conti 
+
+by Emily Andrews & Ashley Conti
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/space-cow
 
@@ -262,6 +346,7 @@ by Emily Andrews & Ashley Conti
 Original: [▶️ Play](https://anc17.github.io/SpaceCow/) [📂 Code](https://github.com/anc17/SpaceCow)
 
 ## Sid The Snake
+
 by Isabelle Agostinelli
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/sid-the-snake
@@ -271,6 +356,7 @@ by Isabelle Agostinelli
 Original: [▶️ Play](https://vicki1115.github.io/SidTheSnake/) [📂 Code](https://github.com/vicki1115/SidTheSnake)
 
 ## Groovy
+
 by Faith Brennan & Jaclyn Kennedy
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/groovy
@@ -280,6 +366,7 @@ by Faith Brennan & Jaclyn Kennedy
 Original: [▶️ Play](https://brennanf.github.io/Groovy/) [📂 Code](https://github.com/brennanf/Groovy)
 
 ## Pacman
+
 by Marissa Cataldo
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/pacman
@@ -289,6 +376,7 @@ by Marissa Cataldo
 Original: [▶️ Play](https://mcataldo5.github.io/Pacman/) [📂 Code](https://github.com/mcataldo5/Pacman)
 
 ## Space Invaders
+
 by Conor Coleman
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/space-invaders
@@ -298,6 +386,7 @@ by Conor Coleman
 Original: [▶️ Play](https://ccoleman107.github.io/Space-Invaders/) [📂 Code](https://github.com/ccoleman107/Space-Invaders)
 
 ## Coin Flip
+
 by Jonathan Torrez-Lopez & Joseph Corleto
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/coin-flip
@@ -307,6 +396,7 @@ by Jonathan Torrez-Lopez & Joseph Corleto
 Original: [▶️ Play](https://corletoj.github.io/Coin-Flip/) [📂 Code](https://github.com/corletoj/Coin-Flip)
 
 ## Basketball Game
+
 by Kevin Cullivan
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/basketball-game
@@ -316,7 +406,8 @@ by Kevin Cullivan
 Original: [▶️ Play](https://cullivank.github.io/basketballgame/) [📂 Code](https://github.com/cullivank/basketballgame)
 
 ## Flapper
-by Joe D'Amico & Andrew Griffin 
+
+by Joe D'Amico & Andrew Griffin
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/flapper
 
@@ -325,6 +416,7 @@ by Joe D'Amico & Andrew Griffin
 Original: [▶️ Play](https://jdamico96.github.io/Flapper/) [📂 Code](https://github.com/jdamico96/Flapper)
 
 ## Sunrise
+
 by Hayley DeLuca & Nina Silva
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/sunrise
@@ -334,7 +426,8 @@ by Hayley DeLuca & Nina Silva
 Original: [▶️ Play](https://ninasophiaa.github.io/Sunrise/) [📂 Code](https://github.com/ninasophiaa/Sunrise)
 
 ## Tip Calculator
-by Magali Dominguez-Partida 
+
+by Magali Dominguez-Partida
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/tip-calculator
 
@@ -343,6 +436,7 @@ by Magali Dominguez-Partida
 Original: [▶️ Play](https://magalidom07.github.io/Tip-Calculator-/) [📂 Code](https://github.com/magalidom07/Tip-Calculator-)
 
 ## Eat Cake
+
 by Sarah Habbour
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/eat-cake
@@ -352,6 +446,7 @@ by Sarah Habbour
 Original: [▶️ Play](https://habbours.github.io/eat-cake/) [📂 Code](https://github.com/habbours/eat-cake)
 
 ## CoronaBuster
+
 by Michael Hintermeister
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/corona-buster
@@ -361,6 +456,7 @@ by Michael Hintermeister
 Original: [▶️ Play](https://polygonsmith.github.io/CoronaBuster/) [📂 Code](https://github.com/PolygonSmith/CoronaBuster)
 
 ## Rock Paper Scissors
+
 by Andrew Kotarski
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/rock-paper-scissors
@@ -370,6 +466,7 @@ by Andrew Kotarski
 Original: [▶️ Play](https://drewkotarski.github.io/Final-Project/) [📂 Code](https://github.com/drewkotarski/Final-Project)
 
 ## Pianooooo
+
 by Tiffany Kwan
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/pianoooo
@@ -379,6 +476,7 @@ by Tiffany Kwan
 Original: [▶️ Play](https://tiffkwan.github.io/Pianooooo/) [📂 Code](https://github.com/tiffkwan/Pianooooo)
 
 ## Tennis Game
+
 by Ryan McCann & Nathan McKee
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/tennis-game
@@ -388,6 +486,7 @@ by Ryan McCann & Nathan McKee
 Original: [▶️ Play](https://ryan-mccann01.github.io/Tennis-Game/) [📂 Code](https://github.com/ryan-mccann01/Tennis-Game)
 
 ## Katie's World Map
+
 by Katie Uszakiewicz
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2020S/katies-world-map
@@ -398,7 +497,9 @@ Original: [▶️ Play](https://kuszakiewicz.github.io/KatiesWorldMap/) [📂 Co
 
 
 # 2019
+
 ## Frog-ish
+
 by Katie Lynch and Leanna Griffith
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2019/frogish/
@@ -407,7 +508,8 @@ by Katie Lynch and Leanna Griffith
 
 Original: [📂 Code](https://github.com/lynchk3/Leanna-Katie-Final-FrogIsh)
 
-##  Learn To Tell Time
+## Learn To Tell Time
+
 by Ayse Bali and Polina Ovchinnikova
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2019/learn-to-tell-time
@@ -417,6 +519,7 @@ by Ayse Bali and Polina Ovchinnikova
 Original: [📂 Code](https://github.com/AyseBali/Programming-Project)
 
 ## SpaaaaaAaaace
+
 by Jamison O'Sullivan, Hannah Paquette, and Nathaniel Shortall
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2019/spaaaaaaaaace
@@ -426,6 +529,7 @@ by Jamison O'Sullivan, Hannah Paquette, and Nathaniel Shortall
 Original: [▶️ Play](https://osullivanj.github.io/SpaaaaaAaaace/) [📂 Code](https://github.com/osullivanj/SpaaaaaAaaace/)
 
 ## Tetris
+
 by Emma Stevens and Patrick Geyer
 
 ▶️ Play: https://ec-idds.github.io/intro-programming/2019/tetris
