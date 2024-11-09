@@ -55,6 +55,14 @@ by Autumn Cabral and Monina Tosi
 
 📂 Code: [autumn-and-moninas-nail-salon](2023/autumn-and-moninas-nail-salon/)
 
+## Boss Fight
+
+by James Fink
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2023/boss-fight/
+
+📂 Code: [boss-fight](2023/boss-fight/)
+
 
 ## Flower Grabber
 
