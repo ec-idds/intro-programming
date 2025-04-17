@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Check Code": "npx eslint ~/workspace/{{filename}}",
+          "Fix Code": "npx eslint ~/workspace/{{filename}} --fix"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Run": "https://{{domain}}/{{index}}"
+  }
+}

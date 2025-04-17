@@ -3,6 +3,19 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
 
 <!-- Instructor: use the Markdown AllInOne package to update TOC automatically on save! -->
 
+- [2024](#2024)
+  - [Almost Scott](#almost-scott)
+  - [Basketball](#basketball)
+  - [Bunny Adventures](#bunny-adventures)
+  - [Flappy Betty](#flappy-betty)
+  - [Harry Catches the Snitch](#harry-catches-the-snitch)
+  - [MarkJack!](#markjack)
+  - [Mood Music](#mood-music)
+  - [Pong 2.8 HD Remastered](#pong-28-hd-remastered)
+  - [Snakesssss](#snakesssss)
+  - [Operation Stealth Strike](#operation-stealth-strike)
+  - [Emmanuel What's for Dinner Wheel](#emmanuel-whats-for-dinner-wheel)
+  - [Zombie Shooter](#zombie-shooter)
 - [2023](#2023)
   - [Autumn \& Monina's Nail Salon](#autumn--moninas-nail-salon)
   - [Boss Fight](#boss-fight)
@@ -60,6 +73,104 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
   - [Learn To Tell Time](#learn-to-tell-time)
   - [SpaaaaaAaaace](#spaaaaaaaaace)
   - [Tetris](#tetris)
+
+# 2024
+
+## Almost Scott
+
+by Leyla Rodriguez and Safa Walid
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/almost-scott/
+
+📂 Code: [almost-scott](2024/almost-scott/)
+
+## Basketball
+
+by Gus Fallah, Josh Santiago, and Mahari Guerrier
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/basketball/
+
+📂 Code: [basketball](2024/basketball/)
+
+## Bunny Adventures
+
+by Kealy Concepcion Santos and Sophia Novoa
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/bunny-adventures/
+
+📂 Code: [bunny-adventures](2024/bunny-adventures/)
+
+## Flappy Betty
+
+by Grace LePain
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/flappy-betty/
+
+📂 Code: [flappy-betty](2024/flappy-betty/)
+
+## Harry Catches the Snitch
+
+by Ashley Hennessey and Sam Marasca
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/harry-catches-the-snitch/
+
+📂 Code: [harry-catches-the-snitch](2024/harry-catches-the-snitch/)
+
+## MarkJack!
+
+by Jayden Reyes, Diego Serra, and Jax Schegel
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/markjack/
+
+📂 Code: [markjack](2024/markjack/)
+
+## Mood Music
+
+by Estella Del Moro, Dana Dinmukhametova, and Maya Galindo
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/mood-music/
+
+📂 Code: [mood-music](2024/mood-music/)
+
+## Pong 2.8 HD Remastered
+
+by Kyle Phillips
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/pong-hd/
+
+📂 Code: [pong-hd](2024/pong-hd/)
+
+## Snakesssss
+
+by Helina Tadesse and Katie Bartash
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/snakesssss/
+
+📂 Code: [snakesssss](2024/snakesssss/)
+
+## Operation Stealth Strike
+
+by Sanzio DiGesualdo and Josh Phillips
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/stealth-bomber/
+
+📂 Code: [stealth-bomber](2024/stealth-bomber/)
+
+## Emmanuel What's for Dinner Wheel
+
+by Kim Kelley and Emely Rodriguez
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/whats-for-dinner/
+
+📂 Code: [whats-for-dinner](2024/whats-for-dinner/)
+
+## Zombie Shooter
+
+by Willson Lin and Pasquale Gallo
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2024/zombie-shooter/
+
+📂 Code: [zombie-shooter](2024/zombie-shooter/)
 
 # 2023
 
