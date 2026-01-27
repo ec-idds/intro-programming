@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Elements Reference</title>
+  <style>
+    h1 {
+      text-align: center;
+    }
+
+    body {
+      padding: 0;
+      margin: 0;
+    }
+  </style>
+  <!-- CDN links from https://cdnjs.com/libraries/p5.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.10/p5.min.js" integrity="sha512-7DACDM+XO+/7cocfzNIXh/3rSXc7MzTtr2elSVJLYcXXHPL1/lAyFSKU1F1JBPPCvBGOLNYJCqLlzFeJzc6dLg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <!-- script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.10/addons/p5.sound.min.js" integrity="sha512-WzkwpdWEMAY/W8WvP9KS2/VI6zkgejR4/KTxTl4qHx0utqeyVE0JY+S1DlMuxDChC7x0oXtk/ESji6a0lP/Tdg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> -->
+  <script src="sketch.js"></script>
+</head>
+
+<body>
+  <main>
+  </main>
+  <h1>🎵 What Song Matches Your Vibe? 🎵</h1>
+
+  <div class="question">
+    <p>What are your go-to plans on Friday?</p>
+    <button type="button" class="choice" data-question="q1" data-value="movie" id="plan1">
+      <img src="ImagesPLS/movie.png" width="190" height="105">
+      <label for="plan1"></label><br>
+    </button>
+    <button type="button" class="choice" data-question="q1" data-value="friends" id="plan2">
+      <img src="ImagesPLS/goOut.png" width="190" height="105">
+      <label for="plan2"></label><br>
+    </button>
+    <button type="button" class="choice" data-question="q1" data-value="study" id="plan3">
+      <img src="ImagesPLS/lockIn.png" width="190" height="105">
+      <label for="plan3"></label><br>
+    </button>
+
+    <p>Dream travel destination?</p>
+    <button type="button" class="choice" data-question="q2" data-value="london" id="place1">
+      <img src="ImagesPLS/london.png" width="190" height="105">
+      <label for="place1"></label><br>
+    </button>
+    <button type="button" class="choice" data-question="q2" data-value="barcelona" id="place2">
+      <img src="ImagesPLS/barcelona.png" width="190" height="105">
+      <label for="place2"> </label><br>
+    </button>
+    <button type="button" class="choice" data-question="q2" data-value="northPole" id="place3">
+      <img src="ImagesPLS/northPole.png" width="190" height="105">
+      <label for="place3"></label><br>
+    </button>
+
+    <p>Breakfast drink of choice?</p>
+    <button type="button" class="choice" data-question="q3" data-value="coffee" id="drink1">
+      <img src="ImagesPLS/coffee.png" width="190" height="105">
+      <label for="drink1"></label><br>
+    </button>
+    <button type="button" class="choice" data-question="q3" data-value="tea" id="drink2">
+      <img src="ImagesPLS/tea.png" width="190" height="105">
+      <label for="drink2"> </label><br>
+    </button>
+    <button type="button" class="choice" data-question="q3" data-value="oJ" id="drink3">
+      <img src="ImagesPLS/oJ.png" width="190" height="105">
+      <label for="drink3"></label><br>
+  </div>
+  <br><br>
+  <button onclick="getSong()" id="submit">GET PERSONALIZED SONG</button>
+
+  <div id="result"></div>
+  <script> document.body.style.backgroundColor = "#f5f5dc" </script>
+
+  <script>
+    var plan1Button;
+    var plan2Button;
+    var plan3Button;
+    var place1Button;
+    var place2Button;
+    var place3Button;
+    var drink1Button;
+    var drink2Button;
+    var drink3Button;
+    var submitButton;
+
+    var planSelected = "none";
+    var placeSelected = "none";
+    var drinkSelected = "none";
+    var submitSelected = "none";
+
+    var songChoice = {
+      "0-0-0": {
+        title: "Rhiannon",
+        url: "https://music.apple.com/us/song/rhiannon/202271847"
+      },
+      "0-0-1": {
+        title: "About You",
+        url: "https://music.apple.com/us/song/about-you/1850019038"
+      },
+      "0-0-2": {
+        title: "Let Alone The One You Love",
+        url: "https://music.apple.com/us/song/let-alone-the-one-you-love/1817609508"
+      },
+      "0-1-0": {
+        title: "Barcelona (Papasessions #2)",
+        url: "https://music.apple.com/us/song/barcelona-papasessions-2/1843736309"
+      },
+      "0-1-1": {
+        title: "La Gent Que Estimo",
+        url: "https://music.apple.com/us/song/la-gent-que-estimo/1617063464"
+      },
+      "0-1-2": {
+        title: "Gasolina",
+        url: "https://music.apple.com/us/song/gasolina/1786000124"
+      },
+      "0-2-0": {
+        title: "Mary Did You Know?",
+        url: "https://music.apple.com/us/song/mary-did-you-know/1049043307"
+      },
+      "0-2-1": {
+        title: "White Winter Hymnal",
+        url: "https://music.apple.com/us/song/white-winter-hymnal/281086428"
+      },
+      "0-2-2": {
+        title: "Rockin' Around the Christmas Tree",
+        url: "https://music.apple.com/us/song/rockin-around-the-christmas-tree/1442732095"
+      },
+      "1-0-0": {
+        title: "Von Dutch",
+        url: "https://music.apple.com/us/song/von-dutch/1739080354"
+      },
+      "1-0-1": {
+        title: "All I Ask",
+        url: "https://music.apple.com/us/song/all-i-ask/1544494912"
+      },
+      "1-0-2": {
+        title: "2s n 3s",
+        url: "https://music.apple.com/us/song/2s-n-3s/1779801204"
+      },
+      "1-1-0": {
+        title: "Pa' Que La Pases Bien",
+        url: "https://music.apple.com/us/song/pa-que-la-pases-bien/1247228818"
+      },
+      "1-1-1": {
+        title: "Young, Wild & Free",
+        url: "https://music.apple.com/us/song/young-wild-free-feat-bruno-mars/480436634"
+      },
+      "1-1-2": {
+        title: "DtMF",
+        url: "https://music.apple.com/us/song/dtmf/1787023936"
+      },
+      "1-2-0": {
+        title: "It Will Rain",
+        url: "https://music.apple.com/us/song/it-will-rain/467980717"
+      },
+      "1-2-1": {
+        title: "Stereo Love",
+        url: "https://music.apple.com/us/song/stereo-love-radio-edit/1712039609"
+      },
+      "1-2-2": {
+        title: "Escapism",
+        url: "https://music.apple.com/us/song/escapism/1646318967"
+      },
+      "2-0-0": {
+        title: "Constellations",
+        url: "https://music.apple.com/us/song/constellations/1632493012"
+      },
+      "2-0-1": {
+        title: "Heaven Knows I'm Miserable Now",
+        url: "https://music.apple.com/us/song/heaven-knows-im-miserable-now/802231076"
+      },
+      "2-0-2": {
+        title: "Mr. Fox In The Fields",
+        url: "https://music.apple.com/us/song/mr-fox-in-the-fields/1467938685"
+      },
+      "2-1-0": {
+        title: "How Can I Make It OK?",
+        url: "https://music.apple.com/us/song/how-can-i-make-it-ok/1554144909"
+      },
+      "2-1-1": {
+        title: "Back To Me",
+        url: "https://music.apple.com/us/song/back-to-me/1803199508"
+      },
+      "2-1-2": {
+        title: "On the Floor",
+        url: "https://music.apple.com/us/song/on-the-floor-feat-pitbull/1440622264"
+      },
+      "2-2-0": {
+        title: "The Christmas Song",
+        url: "https://music.apple.com/us/song/the-christmas-song-merry-christmas-to-you/1435551062"
+      },
+      "2-2-1": {
+        title: "fowards beckon rebound",
+        url: "https://music.apple.com/us/song/forwards-beckon-rebound/1526437444"
+      },
+      "2-2-2": {
+        title: "Merry Christmas, Please Don't Call",
+        url: "https://music.apple.com/us/song/merry-christmas-please-dont-call/1775877096"
+      },
+    };
+
+    function setup() {
+
+      plan1Button = select("#plan1");
+      plan2Button = select("#plan2");
+      plan3Button = select("#plan3");
+      place1Button = select("#place1");
+      place2Button = select("#place2");
+      place3Button = select("#place3");
+      drink1Button = select("#drink1");
+      drink2Button = select("#drink2");
+      drink3Button = select("#drink3");
+      submitButton = select("#submit");
+
+      plan1Button.mouseClicked(function() {
+        planSelected = "0";
+        select("#plan1").addClass("selected");
+        select("#plan2").removeClass("selected");
+        select("#plan3").removeClass("selected");
+      });
+      plan2Button.mouseClicked(function() {
+        planSelected = "1";
+        select("#plan2").addClass("selected");
+        select("#plan1").removeClass("selected");
+        select("#plan3").removeClass("selected");
+      });
+      plan3Button.mouseClicked(function() {
+        planSelected = "2";
+        select("#plan3").addClass("selected");
+        select("#plan1").removeClass("selected");
+        select("#plan2").removeClass("selected");
+      });
+      place1Button.mouseClicked(function() {
+        placeSelected = "0";
+        select("#place1").addClass("selected");
+        select("#place2").removeClass("selected");
+        select("#place3").removeClass("selected");
+      });
+      place2Button.mouseClicked(function() {
+        placeSelected = "1";
+        select("#place2").addClass("selected");
+        select("#place1").removeClass("selected");
+        select("#place3").removeClass("selected");
+      });
+      place3Button.mouseClicked(function() {
+        placeSelected = "2";
+        select("#place3").addClass("selected");
+        select("#place1").removeClass("selected");
+        select("#place2").removeClass("selected");
+      });
+      drink1Button.mouseClicked(function() {
+        drinkSelected = "0";
+        select("#drink1").addClass("selected");
+        select("#drink2").removeClass("selected");
+        select("#drink3").removeClass("selected");
+      });
+      drink2Button.mouseClicked(function() {
+        drinkSelected = "1";
+        select("#drink2").addClass("selected");
+        select("#drink1").removeClass("selected");
+        select("#drink3").removeClass("selected");
+      });
+      drink3Button.mouseClicked(function() {
+        drinkSelected = "2";
+        select("#drink3").addClass("selected");
+        select("#drink1").removeClass("selected");
+        select("#drink2").removeClass("selected");
+      });
+    }
+
+    function getSong() {
+      var key = planSelected + "-" + placeSelected + "-" + drinkSelected;
+      var song = songChoice[key];
+
+      if(song) {
+        select("#result").html(
+          `Your Song: <a href="${song.url}" target="_blank">${song.title}</a>`
+        );
+      }
+    }
+  </script>
+
+</body>
+
+</html>
+<!-- thanks for the awesome semester, we really REALLY liked this class -->

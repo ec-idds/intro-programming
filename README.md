@@ -3,6 +3,15 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
 
 <!-- Instructor: use the Markdown AllInOne package to update TOC automatically on save! -->
 
+- [2025](#2025)
+  - [What Song Matches Your Vibe?](#what-song-matches-your-vibe)
+  - [AstroDash](#astrodash)
+  - [Emoji Builder](#emoji-builder)
+  - [The Purple Runner](#the-purple-runner)
+  - [A Pac Man](#a-pac-man)
+  - [Obstacle Dash](#obstacle-dash)
+  - [Typing Battle](#typing-battle)
+  - [Santa's Cookie Decorator!](#santas-cookie-decorator)
 - [2024](#2024)
   - [Almost Scott](#almost-scott)
   - [Basketball](#basketball)
@@ -73,6 +82,73 @@ Projects from the Intro to Programming course at Emmanuel College, including cod
   - [Learn To Tell Time](#learn-to-tell-time)
   - [SpaaaaaAaaace](#spaaaaaaaaace)
   - [Tetris](#tetris)
+
+# 2025
+
+## What Song Matches Your Vibe?
+
+by Anna Da Costa and Teresa Fleming
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/song-vibe/
+
+📂 Code: [song-vibe](2025/song-vibe/)
+
+## AstroDash
+
+by Gabrielle O’Connor and Shaymaa Salim
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/AstroDash/
+
+📂 Code: [AstroDash](2025/AstroDash/)
+
+## Emoji Builder
+
+by Charlotte Jordan and Leah Crowell
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/emoji-builder/
+
+📂 Code: [emoji-builder](2025/emoji-builder/)
+
+## The Purple Runner
+
+by Daniel R. and Isaiah Etienne
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/the-purple-runner/
+
+📂 Code: [the-purple-runner](2025/the-purple-runner/)
+
+## A Pac Man
+
+by Loden Broe
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/pacman/
+
+📂 Code: [pacman](2025/pacman/)
+
+## Obstacle Dash
+
+by Izabela Xhalia
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/obstacle-dash/
+
+📂 Code: [obstacle-dash](2025/obstacle-dash/)
+
+## Typing Battle
+
+by Matthew Bull and Isaiah Van Gomple
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/typing-battle/
+
+📂 Code: [typing-battle](2025/typing-battle/)
+
+## Santa's Cookie Decorator!
+
+by Olyvia Frongillo
+
+▶️ Play: https://ec-idds.github.io/intro-programming/2025/santas-cookies/
+
+📂 Code: [santas-cookies](2025/santas-cookies/)
+
 
 # 2024
 

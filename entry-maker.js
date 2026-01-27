@@ -1,7 +1,7 @@
-let title = "Zombie Shooter"
-let authors = ["Willson Lin", "Pasquale Gallo"];
-let year = 2024;
-let path = "zombie-shooter";
+let title = "Santa's Cookie Decorator!"
+let authors = ["Olyvia Frongillo"];
+let year = 2025;
+let path = "santas-cookies";
 
 let byline = '';
 if (authors.length === 1) {
